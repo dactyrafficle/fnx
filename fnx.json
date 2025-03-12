@@ -1,0 +1,908 @@
+[
+ {
+  "set":"1",
+  "id":"1",
+  "fr":"bourgeois",
+  "en":"middle class"
+ },
+ {
+  "set":"1",
+  "id":"2",
+  "fr":"ecureuil",
+  "en":"squirrel"
+ },
+ {
+  "set":"1",
+  "id":"3",
+  "fr":"un creneau",
+  "en":"a time slot"
+ },
+ {
+  "set":"1",
+  "id":"4",
+  "fr":"cuillere",
+  "en":"spoon"
+ },
+ {
+  "set":"1",
+  "id":"5",
+  "fr":"chirurgien",
+  "en":"surgeon"
+ },
+ {
+  "set":"1",
+  "id":"6",
+  "fr":"grenouille",
+  "en":"a frog"
+ },
+ {
+  "set":"1",
+  "id":"7",
+  "fr":"grele",
+  "en":"hail"
+ },
+ {
+  "set":"1",
+  "id":"8",
+  "fr":"heureux",
+  "en":"happy"
+ },
+ {
+  "set":"1",
+  "id":"9",
+  "fr":"inaugurer",
+  "en":"inaugurate"
+ },
+ {
+  "set":"1",
+  "id":"10",
+  "fr":"millefeuille",
+  "en":"a dessert"
+ },
+ {
+  "set":"1",
+  "id":"11",
+  "fr":"oiseau",
+  "en":"a bird"
+ },
+ {
+  "set":"1",
+  "id":"12",
+  "fr":"poireau",
+  "en":"leek"
+ },
+ {
+  "set":"1",
+  "id":"13",
+  "fr":"un quincaillerie",
+  "en":"a hardware store"
+ },
+ {
+  "set":"1",
+  "id":"14",
+  "fr":"ratatouille",
+  "en":"a vegetable dish"
+ },
+ {
+  "set":"1",
+  "id":"15",
+  "fr":"serrurier",
+  "en":"locksmith"
+ },
+ {
+  "set":"1",
+  "id":"16",
+  "fr":"trottinette",
+  "en":"scooter"
+ },
+ {
+  "set":"1",
+  "id":"17",
+  "fr":"vinaigrette",
+  "en":"dressing"
+ },
+ {
+  "set":"1",
+  "id":"18",
+  "fr":"ecaille",
+  "en":"fish scale"
+ },
+ {
+  "set":"1",
+  "id":"19",
+  "fr":"surgeler",
+  "en":"flash freeze"
+ },
+ {
+  "set":"1",
+  "id":"20",
+  "fr":"un tonneau",
+  "en":"a barrel"
+ },
+ {
+  "set":"2",
+  "id":"1",
+  "fr":"un épouvantail",
+  "en":"a scarecrow"
+ },
+ {
+  "set":"2",
+  "id":"2",
+  "fr":"un hérisson",
+  "en":"a hedgehog"
+ },
+ {
+  "set":"2",
+  "id":"3",
+  "fr":"un rouflaquette",
+  "en":"sideburns"
+ },
+ {
+  "set":"2",
+  "id":"4",
+  "fr":"un coquelicot",
+  "en":"a poppy"
+ },
+ {
+  "set":"2",
+  "id":"5",
+  "fr":"un chrysanthème un crise en theme",
+  "en":"a chrysanthemum, the fancy flower"
+ },
+ {
+  "set":"2",
+  "id":"6",
+  "fr":"un pamplemousse",
+  "en":"a grapefruit"
+ },
+ {
+  "set":"2",
+  "id":"7",
+  "fr":"le caoutchouc",
+  "en":"rubber"
+ },
+ {
+  "set":"2",
+  "id":"8",
+  "fr":"un pédiatre",
+  "en":"a pediatrician"
+ },
+ {
+  "set":"2",
+  "id":"9",
+  "fr":"chuchoter",
+  "en":"to whisper"
+ },
+ {
+  "set":"2",
+  "id":"10",
+  "fr":"un fléau",
+  "en":"a litteral flail, but also a plague, scourge, bane"
+ },
+ {
+  "set":"2",
+  "id":"11",
+  "fr":"un haricot",
+  "en":"a bean"
+ },
+ {
+  "set":"2",
+  "id":"12",
+  "fr":"fourrure",
+  "en":"a pelt; a fur coat"
+ },
+ {
+  "set":"2",
+  "id":"13",
+  "fr":"un pansement",
+  "en":"a dressing for a wound like a band-aid"
+ },
+ {
+  "set":"2",
+  "id":"14",
+  "fr":"un plombier",
+  "en":"a plumber"
+ },
+ {
+  "set":"2",
+  "id":"15",
+  "fr":"un grappin",
+  "en":"a grappling hook"
+ },
+ {
+  "set":"2",
+  "id":"16",
+  "fr":"un lutin",
+  "en":"a leprechaun"
+ },
+ {
+  "set":"2",
+  "id":"17",
+  "fr":"un gobelet",
+  "en":"a glass, a tumbler, but I guess goblet works too"
+ },
+ {
+  "set":"2",
+  "id":"18",
+  "fr":"un pinceau",
+  "en":"a brush ?"
+ },
+ {
+  "set":"2",
+  "id":"19",
+  "fr":"un caniche",
+  "en":"a poodle"
+ },
+ {
+  "set":"2",
+  "id":"20",
+  "fr":"un torchon",
+  "en":"a tea towel or dish towel but it could be a rag"
+ },
+ {
+  "set":"2",
+  "id":"21",
+  "fr":"un ongle",
+  "en":"a finger nail"
+ },
+ {
+  "set":"2",
+  "id":"22",
+  "fr":"un tricot",
+  "en":"a sweater ? qqch qui etait tricoter (knitted)"
+ },
+ {
+  "set":"2",
+  "id":"23",
+  "fr":"un furret",
+  "en":"a ferret, the animal"
+ },
+ {
+  "set":"2",
+  "id":"24",
+  "fr":"un tabouret",
+  "en":"a stool, for sitting"
+ },
+ {
+  "set":"2",
+  "id":"25",
+  "fr":"un égouttoir",
+  "en":"a colander (comme un passoire)"
+ },
+ {
+  "set":"3",
+  "id":"4",
+  "fr":"les ecouteurs",
+  "en":"headphones"
+ },
+ {
+  "set":"3",
+  "id":"5",
+  "fr":"un casque",
+  "en":"headphones"
+ },
+ {
+  "set":"3",
+  "id":"6",
+  "fr":"un ecran",
+  "en":"screen"
+ },
+ {
+  "set":"3",
+  "id":"7",
+  "fr":"une prise",
+  "en":"wall socket"
+ },
+ {
+  "set":"3",
+  "id":"8",
+  "fr":"un adaptateur (pour brancher)",
+  "en":"adapter"
+ },
+ {
+  "set":"3",
+  "id":"9",
+  "fr":"un chargeur",
+  "en":"charger"
+ },
+ {
+  "set":"3",
+  "id":"10",
+  "fr":"un telecommande",
+  "en":"remote"
+ },
+ {
+  "set":"3",
+  "id":"11",
+  "fr":"un portable (un telephone)",
+  "en":"cell"
+ },
+ {
+  "set":"3",
+  "id":"12",
+  "fr":"un ordinateur, l'ordi",
+  "en":"computer"
+ },
+ {
+  "set":"3",
+  "id":"13",
+  "fr":"la clime la climatisation l'air conditionne",
+  "en":"the ac"
+ },
+ {
+  "set":"3",
+  "id":"14",
+  "fr":"un bureau (la table ou la piece)",
+  "en":"desk or office"
+ },
+ {
+  "set":"3",
+  "id":"15",
+  "fr":"une etagere",
+  "en":"shelf"
+ },
+ {
+  "set":"3",
+  "id":"16",
+  "fr":"une carafe",
+  "en":"a caraf"
+ },
+ {
+  "set":"3",
+  "id":"17",
+  "fr":"une casserole",
+  "en":"a dish"
+ },
+ {
+  "set":"3",
+  "id":"19",
+  "fr":"un cocotte",
+  "en":"a dutch oven"
+ },
+ {
+  "set":"3",
+  "id":"20",
+  "fr":"un rideau",
+  "en":"curtains"
+ },
+ {
+  "set":"3",
+  "id":"21",
+  "fr":"un store",
+  "en":"blinds"
+ },
+ {
+  "set":"3",
+  "id":"22",
+  "fr":"la poignee (de porte)",
+  "en":"door handle"
+ },
+ {
+  "set":"3",
+  "id":"23",
+  "fr":"une serrure",
+  "en":"a lock"
+ },
+ {
+  "set":"3",
+  "id":"24",
+  "fr":"un tiroir",
+  "en":"a drawer"
+ },
+ {
+  "set":"3",
+  "id":"25",
+  "fr":"une poele",
+  "en":"a pan"
+ },
+ {
+  "set":"3",
+  "id":"26",
+  "fr":"un four",
+  "en":"an oven"
+ },
+ {
+  "set":"3",
+  "id":"27",
+  "fr":"un microonde",
+  "en":"a microwave"
+ },
+ {
+  "set":"3",
+  "id":"28",
+  "fr":"un frigo",
+  "en":"a fridge"
+ },
+ {
+  "set":"3",
+  "id":"29",
+  "fr":"une tasse",
+  "en":"a cup"
+ },
+ {
+  "set":"3",
+  "id":"30",
+  "fr":"une cafetiere",
+  "en":"cafeteria"
+ },
+ {
+  "set":"3",
+  "id":"31",
+  "fr":"le lavabo",
+  "en":"bathroom sink"
+ },
+ {
+  "set":"3",
+  "id":"32",
+  "fr":"une serviette",
+  "en":"towel"
+ },
+ {
+  "set":"3",
+  "id":"33",
+  "fr":"un sac a dos",
+  "en":"bag, napsack"
+ },
+ {
+  "set":"3",
+  "id":"34",
+  "fr":"un sac a main",
+  "en":"purse"
+ },
+ {
+  "set":"3",
+  "id":"35",
+  "fr":"une chaise",
+  "en":"chair"
+ },
+ {
+  "set":"3",
+  "id":"36",
+  "fr":"un siege",
+  "en":"seat"
+ },
+ {
+  "set":"3",
+  "id":"37",
+  "fr":"une cuillere en bois",
+  "en":"wooden spoon"
+ },
+ {
+  "set":"3",
+  "id":"38",
+  "fr":"petrir",
+  "en":"malaxer la pate avec tes knuckles. On peut pétrir la pâte avec les poings."
+ },
+ {
+  "set":"3",
+  "id":"99",
+  "fr":"L'évier",
+  "en":"L'évier est en acier inoxydable."
+ },
+ {
+  "set":"3",
+  "id":"99",
+  "fr":"robinet",
+  "en":"faucet"
+ },
+ {
+  "set":"3",
+  "id":"99",
+  "fr":"un lime a ongle",
+  "en":"x"
+ },
+ {
+  "set":"3",
+  "id":"99",
+  "fr":"un siphon",
+  "en":"x"
+ },
+ {
+  "set":"3",
+  "id":"99",
+  "fr":"un bec",
+  "en":"x"
+ },
+ {
+  "set":"3",
+  "id":"99",
+  "fr":"entonnier",
+  "en":"x"
+ },
+ {
+  "set":"3",
+  "id":"99",
+  "fr":"la plaque de cuisson",
+  "en":"x"
+ },
+ {
+  "set":"3",
+  "id":"99",
+  "fr":"un fouet, pour fouetter",
+  "en":"a whisk"
+ },
+ {
+  "set":"3",
+  "id":"99",
+  "fr":"malaxer",
+  "en":"to mix, beat, knead"
+ },
+ {
+  "set":"3",
+  "id":"99",
+  "fr":"fouetter",
+  "en":"to whisk"
+ },
+ {
+  "set":"4",
+  "id":"1",
+  "fr":"La Pologne a une frontière.",
+  "en":"Poland has a border."
+ },
+ {
+  "set":"4",
+  "id":"2",
+  "fr":"C'est le 38eme pays le plus peuplee au monde.",
+  "en":"La Pologne"
+ },
+ {
+  "set":"4",
+  "id":"3",
+  "fr":"Avec plus de 84 millions d'habitants, c'est le pays le plus peuplee de l'Union europeenne.",
+  "en":"L'Allemagne"
+ },
+ {
+  "set":"4",
+  "id":"4",
+  "fr":"La Russie a attaqué l'Ukraine. en fevrier 2022",
+  "en":"Russia attacked Ukraine."
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"charniere",
+  "en":"hinge"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"aiglefin. le.",
+  "en":"haddock"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"roter. ou, le faire roter.",
+  "en":"burp. or to make him burp il rote. je le fais roter. je dois le faire roter."
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"uriner. faire pipi",
+  "en":"il fait pipi souvent"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"grossir",
+  "en":"to gain weight"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"grandir",
+  "en":"to get taller"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"hoquet",
+  "en":"to hiccup"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"raler",
+  "en":"fuss"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"faire dodo",
+  "en":"to nap"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"accouchement",
+  "en":"birth"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"naitre",
+  "en":"to be born"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"placardobement",
+  "en":"x"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"se tortiller",
+  "en":"squirm"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"décortiquer",
+  "en":"to remove the outer layer of sthing. to peel. to shell. to shuck. he's shucking oysters. but also to dissect, figuratively. quand il pete, ca a l'air comme il decortique les cacouhettes."
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"urine. l'urine.",
+  "en":"urine"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"les selles, crottes, travail-bio",
+  "en":"poo"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"les bijoux de familles",
+  "en":"the family jewels. testicles. "
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"Les norvegiens",
+  "en":"the norwegians"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"qqn qui fait caca en soiree ou a la fete",
+  "en":"party pooper"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"chier",
+  "en":"to poop"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"faire caca",
+  "en":"to expel biologyproduct by way of the anus"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"ca me fait chier",
+  "en":"it bothers me"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"j'ai la nausée",
+  "en":"my humors rebel"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"le bétail",
+  "en":"livestock"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"le béton",
+  "en":"concrete"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"la cire",
+  "en":"wax"
+ },
+ {
+  "set":"4",
+  "id":"99",
+  "fr":"La Grece",
+  "en":"greece"
+ },
+ {
+  "set":"4",
+  "id":"99",
+  "fr":"le mexique",
+  "en":"mexico"
+ },
+ {
+  "set":"4",
+  "id":"99",
+  "fr":"le soudan",
+  "en":"sudan"
+ },
+ {
+  "set":"4",
+  "id":"99",
+  "fr":"le canada",
+  "en":"canada"
+ },
+ {
+  "set":"4",
+  "id":"99",
+  "fr":"la russie",
+  "en":"russia"
+ },
+ {
+  "set":"4",
+  "id":"99",
+  "fr":"la france",
+  "en":"france"
+ },
+ {
+  "set":"5",
+  "id":"1",
+  "fr":"revenir en arriere",
+  "en":"to go back"
+ },
+ {
+  "set":"5",
+  "id":"2",
+  "fr":"reculer",
+  "en":"to go back"
+ },
+ {
+  "set":"5",
+  "id":"3",
+  "fr":"un riposte",
+  "en":"a response, counterattack, retaliation"
+ },
+ {
+  "set":"6",
+  "id":"1",
+  "fr":"le pétrole",
+  "en":"petroleum"
+ },
+ {
+  "set":"6",
+  "id":"2",
+  "fr":"Le charbon",
+  "en":"coal"
+ },
+ {
+  "set":"6",
+  "id":"3",
+  "fr":"le gaz naturel",
+  "en":"natural gas"
+ },
+ {
+  "set":"6",
+  "id":"4",
+  "fr":"Le réchauffement climatique",
+  "en":"changement climatique ou dérèglement climatique"
+ },
+ {
+  "set":"6",
+  "id":"5",
+  "fr":"Le dioxyde de carbone (CO2) et le méthane (CH4) sont quoi ?",
+  "en":"le gaz à effet de serre"
+ },
+ {
+  "set":"6",
+  "id":"6",
+  "fr":"le gaz à effet de serre",
+  "en":"comme le dioxyde de carbone (CO2) et le méthane (CH4)"
+ },
+ {
+  "set":"6",
+  "id":"7",
+  "fr":"L'énergie nucléaire",
+  "en":"x"
+ },
+ {
+  "set":"6",
+  "id":"8",
+  "fr":"la production d'électricité ",
+  "en":"electricity production"
+ },
+ {
+  "set":"6",
+  "id":"9",
+  "fr":"les centrales nucléaires",
+  "en":"nuclear power stations"
+ },
+ {
+  "set":"6",
+  "id":"10",
+  "fr":"L'accident nucléaire",
+  "en":"nuclear accident"
+ },
+ {
+  "set":"6",
+  "id":"11",
+  "fr":"un tsunami",
+  "en":"a tsunami"
+ },
+ {
+  "set":"6",
+  "id":"12",
+  "fr":"Le Nord Stream est un système de deux gazoducs reliant la Russie à l'Allemagne",
+  "en":"Le Nord Stream"
+ },
+ {
+  "set":"8",
+  "id":"10",
+  "fr":"la mer Baltique",
+  "en":"x"
+ },
+ {
+  "set":"8",
+  "id":"12",
+  "fr":"la Norvège",
+  "en":"x"
+ },
+ {
+  "set":"8",
+  "id":"13",
+  "fr":"le Royaume-Uni",
+  "en":"x"
+ },
+ {
+  "set":"7",
+  "id":"1",
+  "fr":"Le silicium",
+  "en":"silicon"
+ },
+ {
+  "set":"7",
+  "id":"2",
+  "fr":"L'azote",
+  "en":"nitrogen"
+ },
+ {
+  "set":"7",
+  "id":"3",
+  "fr":"Le bore",
+  "en":"boron"
+ },
+ {
+  "set":"7",
+  "id":"4",
+  "fr":"Le phosphore",
+  "en":"phosphorus"
+ },
+ {
+  "set":"7",
+  "id":"5",
+  "fr":"Le protoxyde d'azote",
+  "en":"Nitrous oxide"
+ },
+ {
+  "set":"7",
+  "id":"6",
+  "fr":"Le dioxyde de carbone",
+  "en":"Carbon dioxide"
+ },
+ {
+  "set":"7",
+  "id":"7",
+  "fr":"Le carbone",
+  "en":"c'est un élément chimique avec le numéro atomique 6"
+ },
+ {
+  "set":"99",
+  "id":"99",
+  "fr":"La photosynthèse",
+  "en":"photosynthesis"
+ }
+]
